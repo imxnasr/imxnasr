@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on [Talky](https://github.com/imxnasr/talky)
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on web projects
-- 💬 Ask me about anything
+- 💬 Ask me about anything.
 - 📫 How to reach me: [@imxnasr](https://x.com/imxnasr)
